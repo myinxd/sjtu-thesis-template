@@ -123,6 +123,7 @@
 \usetikzlibrary{shapes.geometric, arrows}
 
 % Make hyperref to set PDF metadata (author, title, subject, keywords)
+\urlstyle{rm} % Modify default fontstyle of the url link.
 \AtBeginDocument{
   \hypersetup{
     bookmarksnumbered,
